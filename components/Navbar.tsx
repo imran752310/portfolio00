@@ -5,7 +5,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="padding-container relative z-30 rounded-lg bg-white shadow-xl ring-1 ring-slate-100">
+    <nav className="padding-container py-4 relative z-30 rounded-lg bg-white shadow-xl ring-1 ring-slate-100">
       <div className="flex justify-between items-center h-16 px-4">
         <Link href="/" className="bold-32 capitalize relative">
           Imran <span className="text-blue-700">Khan</span>
